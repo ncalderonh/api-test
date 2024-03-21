@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+body {
+    font-family: "Kode Mono", monospace;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-image: url(../../assets/img/bg-pattern.gif);
+    background-repeat: repeat;
+}
+
+#fight {
+    display: inline-block;
+}
+
+#player-attack img {
+    height: 200px;
+    width: auto;
+}
+
+#pc-attack img {
+    height: 200px;
+    width: auto;
+}
+
+#piedra {
+    height: 100px;
+    width: auto;
+}
+
+#papel {
+    height: 100px;
+    width: auto;
+}
+
+#tijera {
+    height: 100px;
+    width: auto;
+}
