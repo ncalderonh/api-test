@@ -1,4 +1,4 @@
-# SuperHERO. Chile
+# SUPERHERO. Chile
 
 Este proyecto consiste en una aplicación web que permite a los usuarios buscar información sobre sus superhéroes favoritos. La aplicación utiliza la API de SuperHero para obtener datos detallados sobre los superhéroes y utiliza CanvasJS para visualizar dinámicamente las estadísticas de poder de cada superhéroe en forma de gráfico circular.
 
