@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #202020;
+}
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbar {
+    transition: all 0.5s;
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
+
+p {
+    line-height: 15px;
+}
+
+h1 {
+    margin: 0;
+}
+
+input[type="search"] {
+    padding: 8px;
+    font-size: 16px;
+}
+
+main {
+    padding: 20px;
+}
+
+.card-body img {
+    height: 300px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #202020;
+}
+
+::-webkit-scrollbar-thumb {
+    background-image: linear-gradient(180deg, #dc3545 0%, #ffc107 99%);
+    box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
+    border-radius: 100px;
+}
+
+#logo-nico {
+    height: 30px;
+}
